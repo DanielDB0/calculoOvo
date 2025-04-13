@@ -54,49 +54,51 @@ pre{
 }
 
 
-@media (max-width: 500px) {
+@media screen and (max-width: 500px) {
     
 form{
-    margin: 10px;
+    margin: 20px;
     text-align: left;
 }
 
 div{
-    padding: 5px;
-    height: 15px;
+    padding: 10px;
+    height: 30px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 #button{
-    margin-top: 5px;
-    margin-left: 5px;
-    height: 15px;
-    width: 35px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 30px;
+    width: 70px;
     text-align: center;
 }
 
 legend{
-    padding-left: 10px;
-    font-size: 10px;
+    padding-left: 20px;
+    font-size: 20px;
 }
 
 #pesoOvo{
     text-align: center;
-    width: 35px;
-    height: 15px;
+    width: 70px;
+    height: 30px;
 }
 
 .caixa{
-    height: 15px;
-    padding: 1.5px;
+    height: 10px;
+    padding: 3px;
 }
 
 label{
-    height:  15px;
-    font-size: 12.5px;
+    height:  20px;
+    font-size: 15px;
 }
 
 pre{
-    margin-top: 12.5px;
-    font-size: 12.5px;
+    margin-top: 25px;
+    font-size: 25px;
 }
 }
