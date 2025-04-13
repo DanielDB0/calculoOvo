@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+
+form{
+    margin: 20px;
+    text-align: left;
+}
+
+div{
+    padding: 10px;
+    height: 30px;
+}
+
+#button{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+}
+
+legend{
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+#pesoOvo{
+    text-align: center;
+    width: 70px;
+    height: 30px;
+}
+
+.caixa{
+    height: 30px;
+    padding: 3px;
+}
+
+label{
+    height:  30px;
+    font-size: 25px;
+}
+
+pre{
+    margin-top: 25px;
+    font-size: 25px;
+}
